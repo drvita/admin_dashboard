@@ -1,0 +1,185 @@
+{
+  "Index": {
+    "title": "Welcome to our application"
+  },
+  "Register": {
+    "title": "Create an account",
+    "motto": "Join to simplify your invoicing and tax management",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Register",
+    "backToLogin": "Back to login",
+    "backToHome": "Back to home",
+    "privacyPolicy": "By registering, you agree to our",
+    "privacyPolicyLink": "Privacy Policy",
+    "nameRequired": "Name is required",
+    "nameMinLength": "Name must be at least {minLength} characters long",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email address",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least {minLength} characters long",
+    "passwordUppercase": "Password must contain at least one uppercase letter",
+    "passwordLowercase": "Password must contain at least one lowercase letter",
+    "passwordNumber": "Password must contain at least one number",
+    "passwordSpecialChar": "Password must contain at least one special character",
+    "registrationSuccess": "Registration successful! Welcome aboard!",
+    "registrationFailed": "Registration failed. Please try again.",
+    "formError": "An error occurred while processing the form. Please check your data and try again."
+  },
+  "Login": {
+    "title": "Log in to your account",
+    "motto": "Welcome back! Please enter your details",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Log in",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email address",
+    "passwordRequired": "Password is required",
+    "loginSuccess": "Login successful! Welcome back!",
+    "loginFailed": "Login failed. Please check your credentials and try again.",
+    "formError": "An error occurred while processing the form. Please try again.",
+    "backToHome": "Back to home"
+  },
+  "LogoutButton": {
+    "logoutButton": "Logout",
+    "logoutSuccess": "Logged out successfully",
+    "logoutError": "Failed to logout. Please try again.",
+    "logoutConfirmTitle": "Logout?",
+    "logoutConfirmMessage": "Are you sure you want to logout?",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "PrivacyPolicy": {
+    "title": "InvoiceMx Privacy Policy",
+    "lastUpdated": "Last updated: {date}",
+    "highContrast": "High contrast",
+    "cookieConsent": "I accept the use of necessary cookies",
+    "saveConsents": "Save preferences",
+    "backToTop": "Back to top",
+    "goBack": "Go back"
+  },
+  "Layout": {
+    "navigation": {
+      "billing": "Billing",
+      "clients": "Clients",
+      "reports": "Reports",
+      "profile": "Profile",
+      "settings": "Settings",
+      "tooltipTheme": "Change theme"
+    },
+    "userMenu": {
+      "profile": "Profile",
+      "settings": "Settings",
+      "accountMenu": "Account menu",
+      "genericUser": "User"
+    },
+    "sidebar": {
+      "search": "Search...",
+      "newInvoice": "New Invoice",
+      "manageClients": "Manage Clients",
+      "financialAnalysis": "Financial Analysis",
+      "membership": "Membership: {role}"
+    },
+    "footer": {
+      "contact": "Contact: support@invoicemx.com | Tel: +52 123 456 7890",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service"
+    }
+  },
+  "Dashboard": {
+    "QuickAccess": {
+      "title": "Quick actions",
+      "newInvoice": "Create invoice",
+      "newClient": "Add client",
+      "reports": "View reports"
+    },
+    "TotalBilledAmount": {
+      "title": "Total billed",
+      "tooltipText": "Monthly comparison",
+      "currentMonth": "This month",
+      "lastMonth": "Last month"
+    },
+    "MembershipStatus": {
+      "title": "Membership status",
+      "currentLevel": "Current level",
+      "nextLevel": "Next level",
+      "pointsToNext": "Points needed",
+      "viewDetails": "View benefits"
+    },
+    "AccountActivity": {
+      "title": "Recent activity",
+      "markAsRead": "Mark as read",
+      "noActivity": "No new activities"
+    },
+    "DraftInvoices": {
+      "title": "Pending drafts",
+      "noDrafts": "No drafts",
+      "continueInvoice": "Continue invoice"
+    },
+    "BillingBalance": {
+      "title": "Billing balance",
+      "currentBalance": "Current balance",
+      "totalBalance": "Total balance",
+      "setAlert": "Set alert",
+      "alertDialogTitle": "Balance alert",
+      "alertThreshold": "Alert threshold",
+      "save": "Save",
+      "cancel": "Cancel"
+    }
+  },
+  "CustomersPage": {
+    "title": "Customer Management",
+    "search": "Search customers",
+    "addCustomer": "Add Customer",
+    "tableHeaders": {
+      "name": "Name",
+      "rfc": "RFC",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "createdAt": "Creation Date"
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "dialog": {
+      "addTitle": "Add New Customer",
+      "editTitle": "Edit Customer",
+      "deleteTitle": "Delete Customer",
+      "deleteConfirmation": "Are you sure you want to delete this customer?",
+      "fields": {
+        "name": "Name",
+        "rfc": "RFC",
+        "email": "Email",
+        "phone": "Phone",
+        "address": "Address"
+      }
+    },
+    "notifications": {
+      "addSuccess": "Customer added successfully",
+      "editSuccess": "Customer updated successfully",
+      "deleteSuccess": "Customer deleted successfully",
+      "error": "An error occurred. Please try again."
+    },
+    "validationErrors": {
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "invalidPhone": "Please enter a valid phone number"
+    },
+    "filters": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "all": "All"
+    },
+    "noCustomers": "No customers found",
+    "loading": "Loading customers...",
+    "exportButton": "Export Customers"
+  }
+}

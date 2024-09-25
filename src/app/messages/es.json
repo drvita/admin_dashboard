@@ -1,0 +1,183 @@
+{
+  "Index": {
+    "title": "Bienvenido a nuestra aplicación"
+  },
+  "Register": {
+    "title": "Crear una cuenta",
+    "motto": "Únete para simplificar tu facturación y gestión de impuestos",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Registrarse",
+    "backToLogin": "Volver al inicio de sesión",
+    "backToHome": "Volver al inicio",
+    "privacyPolicy": "Al registrarte, aceptas nuestra",
+    "privacyPolicyLink": "Política de Privacidad",
+    "nameRequired": "El nombre es obligatorio",
+    "nameMinLength": "El nombre debe tener al menos {minLength} caracteres",
+    "emailRequired": "El correo electrónico es obligatorio",
+    "emailInvalid": "Por favor, introduce un correo electrónico válido",
+    "passwordRequired": "La contraseña es obligatoria",
+    "passwordMinLength": "La contraseña debe tener al menos {minLength} caracteres",
+    "passwordUppercase": "La contraseña debe contener al menos una letra mayúscula",
+    "passwordLowercase": "La contraseña debe contener al menos una letra minúscula",
+    "passwordNumber": "La contraseña debe contener al menos un número",
+    "passwordSpecialChar": "La contraseña debe contener al menos un carácter especial",
+    "registrationSuccess": "¡Registro exitoso! ¡Bienvenido a bordo!",
+    "registrationFailed": "Error en el registro. Por favor, inténtalo de nuevo.",
+    "formError": "Se produjo un error al procesar el formulario. Por favor, revisa tus datos e inténtalo de nuevo."
+  },
+  "Login": {
+    "title": "Iniciar sesión en tu cuenta",
+    "motto": "¡Bienvenido de vuelta! Por favor, ingresa tus datos",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes una cuenta?",
+    "signUp": "Regístrate",
+    "emailRequired": "El correo electrónico es obligatorio",
+    "emailInvalid": "Por favor, introduce una dirección de correo electrónico válida",
+    "passwordRequired": "La contraseña es obligatoria",
+    "loginSuccess": "¡Inicio de sesión exitoso! ¡Bienvenido de vuelta!",
+    "loginFailed": "El inicio de sesión falló. Por favor, verifica tus credenciales e inténtalo de nuevo.",
+    "formError": "Ocurrió un error al procesar el formulario. Por favor, inténtalo de nuevo.",
+    "backToHome": "Volver al inicio"
+  },
+  "LogoutButton": {
+    "logoutButton": "Cerrar sesión",
+    "logoutSuccess": "Sesión cerrada con éxito",
+    "logoutError": "Error al cerrar sesión. Por favor, inténtelo de nuevo.",
+    "logoutConfirmTitle": "¿Cerrar sesión?",
+    "logoutConfirmMessage": "¿Estás seguro de que quieres cerrar sesión?",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar"
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidad de InvoiceMx",
+    "lastUpdated": "Última actualización: {date}",
+    "highContrast": "Alto contraste",
+    "cookieConsent": "Acepto el uso de cookies necesarias",
+    "saveConsents": "Guardar preferencias",
+    "backToTop": "Volver arriba",
+    "goBack": "Volver"
+  },
+  "Layout": {
+    "navigation": {
+      "billing": "Facturación",
+      "clients": "Clientes",
+      "reports": "Reportes",
+      "tooltipTheme": "Cambiar tema"
+    },
+    "userMenu": {
+      "profile": "Perfil",
+      "settings": "Configuración",
+      "accountMenu": "Menú de cuenta",
+      "genericUser": "Usuario"
+    },
+    "sidebar": {
+      "search": "Buscar...",
+      "newInvoice": "Nueva Factura",
+      "manageClients": "Gestionar Clientes",
+      "financialAnalysis": "Análisis Financiero",
+      "membership": "Membresía: {role}"
+    },
+    "footer": {
+      "contact": "Contacto: soporte@invoicemx.com | Tel: +52 123 456 7890",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio"
+    }
+  },
+  "Dashboard": {
+    "QuickAccess": {
+      "title": "Accesos rápidos",
+      "newInvoice": "Crear factura",
+      "newClient": "Añadir cliente",
+      "reports": "Ver reportes"
+    },
+    "TotalBilledAmount": {
+      "title": "Total facturado",
+      "tooltipText": "Comparativa mensual",
+      "currentMonth": "Este mes",
+      "lastMonth": "Mes anterior"
+    },
+    "MembershipStatus": {
+      "title": "Estado de membresía",
+      "currentLevel": "Nivel actual",
+      "nextLevel": "Siguiente nivel",
+      "pointsToNext": "Puntos faltantes",
+      "viewDetails": "Ver beneficios"
+    },
+    "AccountActivity": {
+      "title": "Actividad reciente",
+      "markAsRead": "Marcar como leído",
+      "noActivity": "Sin actividades nuevas"
+    },
+    "DraftInvoices": {
+      "title": "Borradores pendientes",
+      "noDrafts": "Sin borradores",
+      "continueInvoice": "Continuar factura"
+    },
+    "BillingBalance": {
+      "title": "Balance de facturación",
+      "currentBalance": "Saldo actual",
+      "totalBalance": "Balance total",
+      "setAlert": "Configurar alerta",
+      "alertDialogTitle": "Alerta de saldo",
+      "alertThreshold": "Límite de alerta",
+      "save": "Guardar",
+      "cancel": "Cancelar"
+    }
+  },
+  "CustomersPage": {
+    "title": "Gestión de Clientes",
+    "search": "Buscar clientes",
+    "addCustomer": "Añadir Cliente",
+    "tableHeaders": {
+      "name": "Nombre",
+      "rfc": "RFC",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "address": "Dirección",
+      "createdAt": "Fecha de Creación"
+    },
+    "actions": {
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "save": "Guardar",
+      "cancel": "Cancelar"
+    },
+    "dialog": {
+      "addTitle": "Añadir Nuevo Cliente",
+      "editTitle": "Editar Cliente",
+      "deleteTitle": "Eliminar Cliente",
+      "deleteConfirmation": "¿Está seguro de que desea eliminar este cliente?",
+      "fields": {
+        "name": "Nombre",
+        "rfc": "RFC",
+        "email": "Correo Electrónico",
+        "phone": "Teléfono",
+        "address": "Dirección"
+      }
+    },
+    "notifications": {
+      "addSuccess": "Cliente añadido con éxito",
+      "editSuccess": "Cliente actualizado con éxito",
+      "deleteSuccess": "Cliente eliminado con éxito",
+      "error": "Ha ocurrido un error. Por favor, inténtelo de nuevo."
+    },
+    "validationErrors": {
+      "required": "Este campo es obligatorio",
+      "invalidEmail": "Por favor, introduzca un correo electrónico válido",
+      "invalidPhone": "Por favor, introduzca un número de teléfono válido"
+    },
+    "filters": {
+      "active": "Activos",
+      "inactive": "Inactivos",
+      "all": "Todos"
+    },
+    "noCustomers": "No se encontraron clientes",
+    "loading": "Cargando clientes...",
+    "exportButton": "Exportar Clientes"
+  }
+}
